@@ -1,0 +1,18 @@
+:root{
+    --axent-color: #FED136;
+    --white-color: #fff;
+    --main-color: #222;
+    --grey: #bbb;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
